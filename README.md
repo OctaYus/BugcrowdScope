@@ -1,5 +1,3 @@
-Here’s a Markdown README file for your BugcrowdScope repository:
-
 # BugcrowdScope
 
 BugcrowdScope is a Python-based tool designed to assist bug bounty hunters by automating the process of identifying the scope of various targets on Bugcrowd. It simplifies the task of gathering and organizing information about what is in-scope for different programs, streamlining the reconnaissance phase of pentesting.
