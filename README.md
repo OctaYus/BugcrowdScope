@@ -41,4 +41,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - [Bugcrowd](https://www.bugcrowd.com/) for providing a platform for bugbounty.
-```
