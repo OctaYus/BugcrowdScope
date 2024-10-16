@@ -6,7 +6,6 @@ BugcrowdScope is a Python-based tool designed to assist bug bounty hunters by au
 
 - **Automated Scope Retrieval**: Fetch in-scope targets from Bugcrowd programs.
 - **User-Friendly Interface**: Simple command-line interface for ease of use.
-- **Customizable Options**: Adjust parameters to fit specific requirements.
 
 ## Installation
 
@@ -27,7 +26,7 @@ BugcrowdScope is a Python-based tool designed to assist bug bounty hunters by au
 
 To run the tool, use the following command:
 ```bash
-python3 bugcrowd_scope.py
+python3 main.py
 ```
 
 
@@ -43,5 +42,3 @@ This project is licensed under the MIT License.
 
 - [Bugcrowd](https://www.bugcrowd.com/) for providing a platform for bugbounty.
 ```
-
-Feel free to modify any section to better match your project details or add any additional information!
